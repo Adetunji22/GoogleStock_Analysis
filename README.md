@@ -36,3 +36,5 @@ The aim of the project is to gain valuable insights into the historical performa
 
    please access the solution for this project by clicking  the provided [link](https://github.com/Adetunji22/GoogleStock_Trend_Analysis-/blob/main/solution.md)
 
+   Additionally, the relevant code utilized for the analysis can be gotten [Here](https://github.com/Adetunji22/GoogleStock_Trend_Analysis-/blob/main/code.sql) for your reference.
+
