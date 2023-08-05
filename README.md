@@ -29,7 +29,7 @@ Volume: The trading volume, representing the number of shares traded on that tra
 **Aim/Objectives** 
 
 The aim of the project is to gain valuable insights into the historical performance of google's stock price and trends(from 2010-2023). The analysis seeks to explore patterns and flunctuations in the stock's closing price over the past 13 years and aims to achieve the following objectives
-1. Determine the highest and lowest closing prices recorded during the five-year period to understand the range of price fluctuations.
+1. Determine the highest and lowest closing prices recorded during the thirteen-year period to understand the range of price fluctuations.
 2. Analyze the day-to-day variations in the closing price to gain insights into the stock's daily volatility.
 3. Identify the days with the highest percentage gains and losses to understand significant price movements.
 4. Analyze the relationship between the closing price and the 30-day moving average to identify potential upward, downward, or sideways trends.
