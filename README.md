@@ -1,4 +1,4 @@
-# GoogleStockPrice_Analysis
+# GoogleStock_Trend_Analysis
 ![ggc](https://github.com/Adetunji22/GoogleStock_Analysis/assets/127019986/d6849c07-3dc4-4641-b532-d7e3b97c32bc)
 
 #### INTRODUCTION : 
