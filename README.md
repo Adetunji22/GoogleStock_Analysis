@@ -34,3 +34,5 @@ The aim of the project is to gain valuable insights into the historical performa
 3. Identify the days with the highest percentage gains and losses to understand significant price movements.
 4. Analyze the relationship between the closing price and the 30-day moving average to identify potential upward, downward, or sideways trends.
 
+   please access the solution for this project by clicking  the provided [link](https://github.com/Adetunji22/GoogleStock_Trend_Analysis-/blob/main/solution.md)
+
